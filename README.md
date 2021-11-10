@@ -90,3 +90,5 @@
   Содержимое (контент) ячейки, созданной с помощью тега **Td**, будет выровнено по левому краю, а содержимое ячейки, созданной с помощью **Th**, будет выровнено по центру и к тому же выделено полужирным начертанием используемого шрифта.
 
   ![image](https://user-images.githubusercontent.com/60056105/141041740-b8f9d7e4-0980-4cb8-86fd-6e8d1e16c250.png)
+
+  Почитать больше о табличных тегах можно [тут](https://ktonanovenkogo.ru/html/html-new/html-dlya-nachinayushhix-sozdanie-i-rabota-s-tablicami-tegi-table-td-tr-sredstvami-html-i-css.html).
